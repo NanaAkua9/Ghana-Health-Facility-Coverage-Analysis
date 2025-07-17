@@ -2,7 +2,8 @@ Ghana Health Facility Coverage Analysis
 The dataset used for this project was provided as part of a Citizen Data Science initiative (sourced from Kaggle), designed to support learning and practical engagement with real-world public datasets. It offers a comprehensive listing of healthcare facilities in Ghana, organized by Region and District. Key attributes captured in the dataset include the type of health facility (e.g., CHPS compound, clinic, hospital), ownership category (e.g., public, private, NGO), and geolocation information.
 
 [DASHBOARD](https://app.powerbi.com/reportEmbed?reportId=b745548b-b71d-4d82-b569-f1c1af979e7e&autoAuth=true&ctid=bd697c1b-c481-479c-841e-c618542675c3)
-Project Overview
+
+Project Overview:
 This project provides an analytical overview of the distribution and diversity of health facilities across Ghana. Using a dataset comprising 3,540 health facilities across 169 districts and 2,444 towns, the dashboard helps uncover spatial and structural patterns in healthcare access, facility types, and ownership models. The insights generated are intended to support health sector planning, policy decisions, and equitable infrastructure development through identifying underserved regions, understanding ownership structures, and exploring facility type composition.
 
 Regional Distribution:
